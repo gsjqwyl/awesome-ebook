@@ -36,7 +36,11 @@
 - 计算机程序设计艺术（第三卷）      [百度网盘地址](https://pan.baidu.com/s/1nkCtXbX73dORErfLrhh2qw)       提取码：lomk
 
 ## 数据结构和算法
+- 算法图解           [百度网盘地址](https://pan.baidu.com/s/1JibY6p5Y1M1seobszmXI5Q)       提取码：iskw
+- 数据结构(C语言版)严蔚敏，清华大学出版社          [百度网盘地址](https://pan.baidu.com/s/1rczPNJV1kIqSR4y_xWGlUA)    提取码：hi2i
+- 漫画算法小灰的算法之旅             [百度网盘地址](https://pan.baidu.com/s/15bj1s-UN0svpuoSJj5HBQw)    提取码：89tw
 - Java数据结构和算法.（第二版）     [百度网盘地址](https://pan.baidu.com/s/1AU-n3y9S_FWvMx5ePgQFgA)       提取码：9nug 
+- Java常用算法手册 第三版本     [百度网盘地址](https://pan.baidu.com/s/1To0cctdzdvLOYPYo_B22Vg)       提取码：f57b  
 - 编程珠玑 第二版          [百度网盘地址](https://pan.baidu.com/s/1E2U9CHJtAxcg2nGowjM0qw)       提取码：j5ds 
 - 数据结构与算法 Python语言描述_裘宗燕        [百度网盘地址](https://pan.baidu.com/s/1_krNcZY75Uf2l8JHdgpqYg)       提取码：40mn   
 - 数据结构与算法分析——Java语言描述           [百度网盘地址](https://pan.baidu.com/s/1RRrw-UKkllfvloSbk_YdOA)       提取码：lv4h
@@ -70,6 +74,8 @@
 - 深入理解JAVA内存模型        [百度网盘地址](https://pan.baidu.com/s/1VJbDhrPh0B-d3LteJLF6CA)      提取码：6oo8
 - 图解Java多线程设计模式        [百度网盘地址](https://pan.baidu.com/s/1fh_mpD625pSvE8BHPmY3MA)      提取码：fttb
 - JAVA并发编程实践        [百度网盘地址](https://pan.baidu.com/s/1w90Ylb8TI4YyBpfQrPsvhA)      提取码：t0s2
+- 实战Java高并发程序设计         [百度网盘地址](https://pan.baidu.com/s/1hucABKcd56UIUB6Ru1Luow)      提取码：g2ms
+- 重构：改善既有代码的设计(第2版)         [百度网盘地址](https://pan.baidu.com/s/12GFvWq0Q6DWQKFCOy4SSvw)      提取码：h2mv
 
 ## Java框架
 - 精通Spring4.X企业应用开发实战        [百度网盘地址](https://pan.baidu.com/s/17bOUkLgI2IQCUv-1OUsMSw)      提取码：3pf5
@@ -135,6 +141,8 @@
 - Linux命令详解词典           [百度网盘地址](https://pan.baidu.com/s/1rdXZueiPf0MhVtcTLU1gjg)      提取码：yfat
 
 ## Elasticsearch
+- Elasticsearch 6.1官方入门教程          [百度网盘地址](https://pan.baidu.com/s/19QmCIR9pevatuOt0QxywEg)      提取码：h45c
+- Elasticsearch服务器开发.第2版          [百度网盘地址](https://pan.baidu.com/s/1WPFJQEAlFw9u8vvZwc45Bw)      提取码：0ch7
 - Elasticsearch权威指南(中文版)           [百度网盘地址](https://pan.baidu.com/s/10pq-W_Kc5oSGWGG7i2QVkQ)      提取码：7ots
 - 深入理解ElasticSearch           [百度网盘地址](https://pan.baidu.com/s/1J5SRDs-vr9r2Qtl1RWFsLg)      提取码：fizi
 - 实战Elasticsearch、Logstash、Kibana++分布式大数据搜索与日志挖掘及可视化解决方案          [百度网盘地址](https://pan.baidu.com/s/1LY5oJpSF-Tzj195y24q96g)      提取码：33ma
@@ -163,3 +171,4 @@
 - 微服设计           [百度网盘地址](https://pan.baidu.com/s/1CteWawoyFtmDe3HrqeHSBg)      提取码：5qai
 - Spring Cloud微服务实战           [百度网盘地址](https://pan.baidu.com/s/1p482eU2tqbcJLqA5sRuuHg)      提取码：m1a7
 - 微服设计           [百度网盘地址](https://pan.baidu.com/s/1_ZXGlkw-qXm_ZScQAfdSsg)      提取码：0fhy
+- 微服务架构与实践(王磊著)完整版          [百度网盘地址](https://pan.baidu.com/s/16FHOE6_EGsi1dzLUKLV_4Q)      提取码：i89k
