@@ -5,7 +5,7 @@
 > 补充：经很多小伙伴建议，进行了汇总。如果你想一次性下载全部的电子书，请微信搜索公众号：Java后端精选。后台回复【ebook】。获取下载链接
 >
 >**或扫描下方二维码**
-![公众号：java专栏](qr_code.jpg)
+![公众号：java后端精选](https://github.com/gsjqwyl/awesome-ebook/blob/main/qrcode.jpg)
 >
 <!-- TOC -->
 
