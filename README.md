@@ -32,24 +32,25 @@
 
 ## 计算机基础
 
-- HTTP权威指南          [百度网盘地址](https://pan.baidu.com/s/1yDveoJnBK31uXJJXxIs1wQ)       提取码：7rsk
-- 图解HTTP             [百度网盘地址](https://pan.baidu.com/s/1xPiqk4L9aH2xoOufTig7dw)       提取码：t5ia 
-- 图解TCP/IP(第5版)      [百度网盘地址](https://pan.baidu.com/s/1emJW1bayTMsrGG7enFGvCQ)       提取码：fapt
-- 程序是怎样跑起来的      [百度网盘地址](https://pan.baidu.com/s/1L-lSgQ5x7zChnWfy33Hx9g)       提取码：v8cs
-- 计算机程序设计艺术（一/二/三卷）      [百度网盘地址](https://pan.baidu.com/s/1BTXb_IfFsOmiM2q2wgQuPw)       提取码：uh9t
-
+- HTTP权威指南          [百度网盘地址](https://pan.baidu.com/s/1xGobyqDj-RO0DaNYwaTx-A)       提取码：br1u
+- 图解HTTP             [百度网盘地址](https://pan.baidu.com/s/19lxn621gMIDGYQ0ChUH_yA)       提取码：3acn 
+- 图解TCPIP(第5版)      [百度网盘地址](https://pan.baidu.com/s/1YYjxLV78QH03dbignnL_aA)       提取码：2fk8
+- 程序是怎样跑起来的      [百度网盘地址](https://pan.baidu.com/s/1Km2HUdqC0nKP4ShyZ8Wfbg)       提取码：372h
+- 计算机程序设计艺术（第一卷）      [百度网盘地址](https://pan.baidu.com/s/1CeJSC4jKhnWzr52-njZnHA)       提取码：54xd
+- 计算机程序设计艺术（第二卷）      [百度网盘地址](https://pan.baidu.com/s/1FRoItSFDXl_jMkRffWBB2A)       提取码：96lg
+- 计算机程序设计艺术（第三卷）      [百度网盘地址](https://pan.baidu.com/s/1nkCtXbX73dORErfLrhh2qw)       提取码：lomk
 
 ## 数据结构和算法
-- 算法图解           [百度网盘地址](https://pan.baidu.com/s/1tRlordJ_btVssrZO1gQkQg)       提取码：6ks1
-- 数据结构(C语言版)严蔚敏，清华大学出版社          [百度网盘地址](https://pan.baidu.com/s/1QMx_kJkeZJLF6EBL4woitA)    提取码：krjx
-- 漫画算法小灰的算法之旅             [百度网盘地址](https://pan.baidu.com/s/1TzZRS4_705S6qH6yA2qDkg)    提取码：x2d7
-- Java数据结构和算法.（第二版）     [百度网盘地址](https://pan.baidu.com/s/1DBgsWjw-KVpQL8IlOE07nA)       提取码：6kba 
-- Java常用算法手册 第三版本     [百度网盘地址](https://pan.baidu.com/s/1QwjBWb1Lfao0zOxUA2m6fQ)       提取码：dvzu  
-- 编程珠玑 第二版          [百度网盘地址](https://pan.baidu.com/s/1wZTw3S6aGblsLfnfgumOmQ)       提取码：mywh 
-- 数据结构与算法 Python语言描述_裘宗燕        [百度网盘地址](https://pan.baidu.com/s/1zlCwsY-0aqLfvmvONgliXA)       提取码：zqy4   
-- 数据结构与算法分析——Java语言描述           [百度网盘地址](https://pan.baidu.com/s/1yqi-7mWD6FYUZbPK53R-HA)       提取码：td46
-- 算法导论_原书第3版_CHS         [百度网盘地址](https://pan.baidu.com/s/1wOMc4dGZtEKWaBNH5A9CgQ)       提取码：09t3
-- 算法 第4版-谢路云         [百度网盘地址](https://pan.baidu.com/s/188SscB-qV7DzPPQu4EmLcg)       提取码：g4p9
+- 算法图解           [百度网盘地址](https://pan.baidu.com/s/1JibY6p5Y1M1seobszmXI5Q)       提取码：iskw
+- 数据结构(C语言版)严蔚敏，清华大学出版社          [百度网盘地址](https://pan.baidu.com/s/1rczPNJV1kIqSR4y_xWGlUA)    提取码：hi2i
+- 漫画算法小灰的算法之旅             [百度网盘地址](https://pan.baidu.com/s/15bj1s-UN0svpuoSJj5HBQw)    提取码：89tw
+- Java数据结构和算法.（第二版）     [百度网盘地址](https://pan.baidu.com/s/1AU-n3y9S_FWvMx5ePgQFgA)       提取码：9nug 
+- Java常用算法手册 第三版本     [百度网盘地址](https://pan.baidu.com/s/1To0cctdzdvLOYPYo_B22Vg)       提取码：f57b  
+- 编程珠玑 第二版          [百度网盘地址](https://pan.baidu.com/s/1E2U9CHJtAxcg2nGowjM0qw)       提取码：j5ds 
+- 数据结构与算法 Python语言描述_裘宗燕        [百度网盘地址](https://pan.baidu.com/s/1_krNcZY75Uf2l8JHdgpqYg)       提取码：40mn   
+- 数据结构与算法分析——Java语言描述           [百度网盘地址](https://pan.baidu.com/s/1RRrw-UKkllfvloSbk_YdOA)       提取码：lv4h
+- 算法导论_原书第3版_CHS         [百度网盘地址](https://pan.baidu.com/s/1p0oZBH5PoSMR9rKRLU2LCA)       提取码：he9c
+- 算法 第4版-谢路云         [百度网盘地址](https://pan.baidu.com/s/1sdtX78N6EUJfgi_oTEbWtA)       提取码：uzwm
 - 算法设计与分析基础         [百度网盘地址](https://pan.baidu.com/s/1ccgDSyy4GI2D6yKp2bzCRg)       提取码：3083
 - 大话数据结构            [百度网盘地址](https://pan.baidu.com/s/1VmVGAmRXcDBf3h5jVP3fWQ)       提取码：crs0
 - 数据结构（Java版）       [百度网盘地址](https://pan.baidu.com/s/1R9QbndGBzURoTYdIopTGzA)       提取码：qnfv
